@@ -1,0 +1,32 @@
+#header {
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 50px, 50px, 50px, 50px;
+}
+
+body {
+    background: url(images/KC-Chiefs.jpg);
+    background-size: center;
+}   
+
+h1 {
+    color: darkorange;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.content {
+    font-size: 18px;
+    padding: 25px, 50px, 75px, 100px;
+    color: lightgreen;
+    background: url(images/pat_hair.jpg);
+    background-size: contain;
+}
+
+ol {
+    color: darkred;
+    list-style-type: decimal;
+}
